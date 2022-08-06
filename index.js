@@ -5,3 +5,6 @@
 //  ( thử mục đang làm việc --------- staring Area--------- commited ) cập nhật khi dùng 
 //git add index.html-----------------index.html---------------------
 //git commit -m""-------------------------------------------index.html
+//git log : kiểm tra ấn Q để thoát git log
+// sau đó add git lên server?git branch -M main
+// git checkout -b body-style git branch 

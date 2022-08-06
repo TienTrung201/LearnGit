@@ -7,5 +7,5 @@
 //git commit -m""-------------------------------------------index.html
 //git log : kiểm tra ấn Q để thoát git log
 // sau đó add git lên server?git branch -M main
-// git checkout -b body-style git branch 
-//  con bò cuoi
+// git checkout -b body-style git branch (body-style tên branch)
+//  

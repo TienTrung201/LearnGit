@@ -21,4 +21,10 @@
 // git checkout -b body-style git branch (body-style tên branch)
 //
 
+
+//trungtest 1  git push origin --all: push các nhánh
+// git branch --delete main2 : xóa nhánh chỉ định
+//git push origin --delete main2 : push nhánh đã xóa
+//  git push origin trungtest chỉ push code ở nhanh đang thay đổi
+
 // Xuanphuccc: Test git branch

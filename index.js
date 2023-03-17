@@ -10,7 +10,6 @@
 //git commit -m""-------------------------------------------index.html
 //git log : kiểm tra ấn Q để thoát git log
 // sau đó add git lên server?git branch -M main
-<<<<<<< HEAD
 
 
 
@@ -19,9 +18,7 @@
 // git checkout -b body-style git branch (body-style tên branch và trỏ vào body-style vàa body-style)
 // git checkout main di chuyển breach lại vào main vì main đã có sẵn k cần -b
 //   git merge body-style  chuyển code ở branch  main2 vào main
-=======
 // git checkout -b body-style git branch (body-style tên branch)
 //
 
 // Xuanphuccc: Test git branch
->>>>>>> 5007c4d681ab2c85d4c1bb423ee754c76b14aa80
